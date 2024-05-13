@@ -1,0 +1,168 @@
+.margin0-auto{
+    margin:0 auto;
+}
+
+/* .color */
+.facebook{
+    background-image: linear-gradient(#a2a3b0 ,#39549d, #a2a3b0);
+    padding: 3px 6px;
+    color: white;
+    border-radius: 5px;
+}
+.twitter{
+    background: #55ACEE;
+    padding: 3px 3px;
+    color: white;
+    border-radius: 5px;
+}
+.wifi{
+    background: #ff6600;
+    color: white;
+    border-radius: 5px;
+    padding: 3px 2px;
+}
+.bg-color{
+    background-color:  #436ba6;
+    border-bottom: 15px solid #de834b;
+}
+.bg-colorhome{
+    background-color: #de834b;
+    color: white;
+}
+.bg-colornav{
+    background-color:  #3089e7;
+    color: white;
+}
+.linear{
+    background-image: linear-gradient(#facd63,white 40px);
+}
+.bg-colorfoo{
+    background-color:  rgb(245, 83, 83);
+}
+.color{
+    color: black;
+}
+/* .color */
+
+.color-text{
+    color: white;
+}
+.margin-left{
+    margin-left: 20px;
+}
+.font-size1{
+    font-size: 50px;
+    padding: 45px 0px;
+}
+.font-size2{
+    font-size: 40px;
+}
+.font-sizenav{
+    font-size: 20px;
+}
+.font-size{
+    font-size: 15px;
+}
+.nav{
+    text-decoration: none;
+    padding: 8px 20px 1px 20px;
+    border-radius: 5px 5px 0px 0px;
+}
+
+/* .float */
+.float-left{
+    float:left;
+}
+.float-right{
+    float: right;
+}
+/* .float */
+
+
+.padding-sec{
+    padding-top: 10px 0px;
+    font-size: 25px;
+}
+.bg-colorsec{
+    background-color: #fecc6b;
+    height: 800px;
+}
+
+/* .empty */
+.empty-box{
+    margin-top: 10px;
+    border: 2px solid;
+    padding: 150px 0px;
+    background-color: white;
+}
+.empty2-box{
+    border: 7px solid #dc8043;
+    padding: 100px 0px;
+    background-color: white;
+    margin-top: 20px;
+}
+.empty3-box{
+    border: 1px solid;
+    background-color: white;
+    margin-top: 20px;
+    font-size: bold;
+}
+.empty4-box{
+    margin-top: 20px;
+    border: 1px solid;
+    background-color: white;
+    padding: 20px 0px;
+}
+/* .empty */
+
+
+/* .width */
+.width-37{
+    width: 37%;
+}
+.width-30{
+    width: 30%;
+}
+.width-40{
+    width: 40%;
+}
+.width-68{
+    width: 68%;
+}
+.width-95{
+    width: 95%;
+}
+.width-70{
+    width: 70%;
+}
+/* .width */
+
+.text-box{
+    font-size: 200;
+    font-weight: bolder;
+    color: rgb(214, 96, 96);
+}
+.footer{
+    padding: 30px;
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+    background-image: linear-gradient(#dc8043, #d6661a);
+    height: 50px;
+}
+.header{
+    color: #b5642f;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 5px 0px;
+}
+.border{
+    border: 2px solid black;
+}
+.margin-top{
+    margin-top: 25px;
+}
+.img{
+    width: 60%;
+    max-width: 120px;
+}
